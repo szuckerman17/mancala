@@ -1,0 +1,41 @@
+
+
+#display
+{
+    height: 200px;
+    position: relative;
+}
+
+.playerPot
+{
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+}
+
+[data-selected="true"]
+{
+    color: blue;
+}
+
+.cpuPot
+{
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+}
+
+.endPot{
+    position: absolute;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+.endPotStones{
+    position: absolute;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
